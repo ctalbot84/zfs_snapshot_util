@@ -1,1 +1,5 @@
-Creating a ZFS Snapshot script
+Creating a ZFS Snapshot script.
+
+TODO:
+Create Snapshots on a given schedule
+Chmod Snapshots to be for the correct user
